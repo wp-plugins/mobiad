@@ -13,7 +13,7 @@ MobiAD allows publishers to quickly monetise their mobile traffic through our Wo
 
 Thanks to MobiAD and its WordPress programmatic plugin, publishers of all sizes and countries can now easily access thousands of advertisers with the push of a button.
 
-Our platform supports banner ads, interstitials, and native ad and is connected to over 100+ demand side platforms (DSP) that bid on your ad inventory in real-time. Whatâ€™s more, it takes less than five minutes to sign-up and about a few hours to start to make money.
+Our platform supports banner ads, interstitials, and native ad and is connected to over 100+ demand side platforms (DSP) that bid on your ad inventory in real-time. What's more, it takes less than five minutes to sign-up and about a few hours to start to make money.
 
 **IMPORTANT: You will FIRST need to register as a publisher, go to [MobiAD - Sign up for FREE](http://mobiad.uk/publisher-sign-up-form/) and create a MobiAD account to get your publisher ID to activate the plugin. 
 
